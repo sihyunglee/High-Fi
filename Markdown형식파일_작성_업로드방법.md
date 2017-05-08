@@ -3,7 +3,7 @@
 - https://typora.io 에서 본인 운영체제에 맞는 설치파일 다운로드 & 설치
 
 
-
+&nbsp;
 
 
 **(2) Markdown 에디터(typora) 사용법**
@@ -14,7 +14,7 @@
 - 저장한 파일은 저장소(https://github.com/sihyunglee/High-Fi/) 에서 'Upload Files' 버튼 클릭하여 추가
 
 
-
+&nbsp;
 
 
 **(3) GitHub 저장소에 이미 저장한 파일을 편집하는 방법**
@@ -25,4 +25,6 @@
 - 다른 사람들이 보고 이해할 수 있을 정도로 간략하고 명확하게 작성
 - 'Commit changes' 버튼 클릭하면 수정사항이 저장소에 반영됨
 
+
+&nbsp;
 

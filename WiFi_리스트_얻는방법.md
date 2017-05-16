@@ -21,7 +21,7 @@ netsh wlan show networks mode=bssid
 
 ④ netsh wlan show networks mode=bssid
 
-
+&nbsp;
 
 이 방법의 단점은 잠시 연결을 끊어야 한다는 것인데 다음과 같은 이유로 크게 문제가 될 것 같지는 않음
 
@@ -29,17 +29,19 @@ netsh wlan show networks mode=bssid
 - 이미 믿을만한 WiFi에 연결되었다면 굳이 다른 WiFi를 검사할 필요는 없으므로 주변의 WiFi를 검사해야 할 때는 연결하지 않은 상태로 검사하는 상황이라고 가정해도 됨
 
 
-
+&nbsp;
 
 
 그 외에 유용한 명령어:
 
-
+&nbsp;
 
 netsh wlan show all
 
 - 현재 연결된 WiFi 및 기존에 저장된 profile에 대한 정보 보여줌
 
+
+&nbsp;
 
 
 netsh 명령은 마지막 파라미터 자리에 ?를 넣으면 그 자리에서 사용할 수 있는 모든 옵션을 볼 수 있음

@@ -16,9 +16,11 @@ netsh interface show interface
 
 관리 상태      상태              종류               인터페이스 이름
 
-사용             연결됨            전용               VMware Network Adapter VMnet1
-사용             연결됨            전용               VMware Network Adapter VMnet8
-**사용             연결됨            전용               이더넷**
+===========================================================&nbsp;
+
+사용             연결됨            전용               VMware Network Adapter VMnet1&nbsp;
+사용             연결됨            전용               VMware Network Adapter VMnet8&nbsp;
+**사용             연결됨            전용               이더넷**&nbsp;
 
 &nbsp;
 

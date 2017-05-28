@@ -19,8 +19,12 @@ netsh interface show interface
 ===========================================================&nbsp;
 
 사용             연결됨            전용               VMware Network Adapter VMnet1&nbsp;
+
 사용             연결됨            전용               VMware Network Adapter VMnet8&nbsp;
+
 **사용             연결됨            전용               이더넷**&nbsp;
+
+===========================================================
 
 &nbsp;
 
